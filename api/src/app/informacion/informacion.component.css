@@ -1,0 +1,27 @@
+div{
+    text-align: center;
+    
+
+}
+
+p{
+    opacity: 0.7;
+}
+
+h2{
+    opacity: 0.4;
+}
+
+button{
+    height: 18%;
+    width: 6%;
+    background-color: rgb(207, 255, 238);
+    border-radius: 4px;
+    border-color: aquamarine;
+    opacity: 0.8;
+}
+
+button:hover{
+    background-color: rgb(118, 235, 196);
+    cursor: pointer;
+}
