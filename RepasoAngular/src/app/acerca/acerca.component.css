@@ -1,0 +1,9 @@
+div{
+display: flex;
+flex-direction: column;
+text-align: center;
+width: 30%;
+border: rgb(204, 204, 141) solid;
+height: 300px;
+color: rgb(47, 18, 8);
+}

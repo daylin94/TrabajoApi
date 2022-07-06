@@ -1,0 +1,23 @@
+div{
+  width: 100%;
+  border-bottom: 1px solid black;
+  text-align: right;
+  position: relative;
+}
+
+a{
+  display: inline-block;
+  padding: 3px 0;
+  margin: 15px 25px;
+  position: relative;
+  text-decoration: none;
+  text-transform: uppercase;
+  color: #0f0f0f;
+  font-weight: 800;
+  font-size: 24px;
+}
+
+a:hover{
+    cursor: hand;
+    background-color: rgb(253, 253, 249);
+}
